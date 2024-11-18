@@ -29,6 +29,8 @@ Soy una persona proactiva, comprometida y con muchas ganas de seguir explorando 
 ### Otros:  
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
 
 ---
 
