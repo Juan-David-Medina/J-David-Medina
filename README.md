@@ -1,55 +1,24 @@
-# 👨‍💻 Bienvenido a mi perfil de GitHub  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Medina
+====================================================================================================================================
 
-¡Hola! 👋 Soy un **Desarrollador de Software** apasionado por la tecnología y el aprendizaje continuo. Tengo 21 años, soy de Colombia, y cuento con más de un año de experiencia en el desarrollo de soluciones digitales que combinan funcionalidad y diseño.  
+Programador - Desarrollador web
+-------------------------------
 
-Mi mayor motivación es crecer profesionalmente y contribuir con mi trabajo a proyectos que marquen la diferencia. Me gusta enfrentar desafíos, aprender de cada experiencia, y mejorar constantemente mis habilidades técnicas y personales.  
+Soy un Desarrollador de Software apasionado por la tecnología y el aprendizaje continuo. Con más de un año de experiencia en el desarrollo de soluciones digitales, me especializo en crear interfaces web funcionales y bien diseñadas, así como en el desarrollo backend para asegurar el rendimiento y la escalabilidad de las aplicaciones. Mi objetivo es seguir creciendo profesionalmente y contribuir en proyectos innovadores que generen impacto. Siempre estoy dispuesto a asumir nuevos desafíos y mejorar mis habilidades técnicas. Soy proactivo, creativo y comprometido con el éxito.
 
-Soy una persona proactiva, comprometida y con muchas ganas de seguir explorando el fascinante mundo de la programación. Si estás buscando a alguien con energía, creatividad y pasión para integrarse a tu equipo, ¡estaré encantado de ser parte de tu próximo proyecto! 😊  
+* 🌍  I'm based in Colombia
+* ✉️  You can contact me at [juandavidmedina398@gmail.com](mailto:juandavidmedina398@gmail.com)
+* 🤝  I'm open to collaborating on Proyectos de desarrollo de software
 
----
+### Skills
 
-## 🌟 Sobre mí  
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+</p>
 
-- 📍 **Ubicación**: Colombia  
-- 🛠️ **Especialidades**: Desarrollo web, diseño responsivo y optimización de interfaces de usuario.  
-- 📅 **Experiencia**: Más de 1 año trabajando con tecnologías web.  
-- 🎯 **Objetivo**: Continuar aprendiendo y creciendo en el mundo del desarrollo, mientras colaboro en proyectos innovadores.  
+### Socials
 
----
+<p align="left"> <a href="https://www.github.com/J-David-Medina" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/juan-david-agudelo-30b24b22b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
 
-## 🚀 Tecnologías que manejo  
-
-### Lenguajes:  
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Frameworks & Librerías:  
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-teal?style=flat-square&logo=tailwind-css&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-### Otros:  
-![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) 
-
----
-
-## 🌱 Actualmente estoy aprendiendo...  
-
-- Tecnologías y frameworks de **backend** para el desarrollo web.  
-- Mejores prácticas en arquitectura de software y gestión de APIs.  
-
----
-
-## 📫 ¿Cómo contactarme?  
-
-- 📧 **Correo:** [juandavidmedina398@gmail.com](mailto:juandavidmedina398@gmail.com)  
-- [🔗 **LinkedIn**](https://www.linkedin.com/in/juan-david-agudelo-30b24b22b/)  
-- [🐱 **GitHub**](https://github.com/J-David-Medina)  
-- [💬 **WhatsApp**](https://api.whatsapp.com/send?phone=573126700622)  
-
----
+<a href="https://github.com/J-David-Medina" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-David-Medina&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
