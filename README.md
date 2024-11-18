@@ -19,8 +19,8 @@ Soy un **Desarrollador de Software** con más de un año de experiencia en el de
 
 [## 📫 Cómo llegar a mí...
 - **Correo electrónico**: juandavidmedina398@gmail.com
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/juan-david-agudelo-30b24b22b/)
-- **GitHub**: [GitHub](https://github.com/J-David-Medina)]
+- **[LinkedIn](https://www.linkedin.com/in/juan-david-agudelo-30b24b22b/)**
+- **[GitHub](https://github.com/J-David-Medina)**
 - **WhatsApp**: [Envíame un mensaje](https://api.whatsapp.com/send?phone=573126700622)
   - 
 ¡Estoy emocionado por colaborar contigo y aprender juntos!
