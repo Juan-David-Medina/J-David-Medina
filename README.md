@@ -18,11 +18,13 @@ Soy una persona proactiva, comprometida y con muchas ganas de seguir explorando 
 ### Lenguajes:  
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Frameworks & Librerías:  
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-teal?style=flat-square&logo=tailwind-css&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-teal?style=flat-square&logo=tailwind-css&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 ### Otros:  
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white)  
