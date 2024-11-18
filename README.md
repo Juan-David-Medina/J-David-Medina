@@ -1,5 +1,5 @@
 ¡Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-Mi nombre es David Medina  
+Mi nombre es Juan David Agudelo  
 ====================================================================================================================================  
 
 ### Programador - Desarrollador Web  
@@ -12,6 +12,8 @@ Mi objetivo es seguir creciendo profesionalmente y contribuir en proyectos innov
 - 🌍  Estoy ubicado en Colombia  
 - ✉️  Puedes contactarme en [juandavidmedina398@gmail.com](mailto:juandavidmedina398@gmail.com)  
 - 🤝  Estoy abierto a colaborar en proyectos de desarrollo de software  
+
+---
 
 ### Habilidades
 
@@ -57,6 +59,8 @@ Mi objetivo es seguir creciendo profesionalmente y contribuir en proyectos innov
 </a>
 </p>
 
+---
+
 ### Redes Sociales
 
 <p align="left">
@@ -64,4 +68,14 @@ Mi objetivo es seguir creciendo profesionalmente y contribuir en proyectos innov
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/juan-david-agudelo-30b24b22b/" target="_blank" rel="noreferrer">
-    <img src="https
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### Insignias
+
+<a href="https://github.com/J-David-Medina" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-David-Medina&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=es&custom_title=Lenguajes%20Más%20Usados" alt="Lenguajes Más Usados" />
+</a>
