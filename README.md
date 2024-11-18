@@ -14,6 +14,7 @@ Mi objetivo es seguir creciendo profesionalmente y contribuir en proyectos innov
 - 🤝  Estoy abierto a colaborar en proyectos de desarrollo de software  
 
 ---
+---
 
 ### Habilidades
 
