@@ -42,7 +42,7 @@ Soy una persona proactiva, comprometida y con muchas ganas de seguir explorando 
 ## 📫 ¿Cómo contactarme?
 
 - [📧 Gmail](mailto:juandavidmedina398@gmail.com)
-- 📧 **Correo:** [tu.correo@ejemplo.com](mailto:tu.correo@ejemplo.com)  
+- 📧 **Correo:** [juandavidmedina398@gmail.com](mailto:tu.correo@ejemplo.com)  
 - [🔗 LinkedIn](https://www.linkedin.com/in/juan-david-agudelo-30b24b22b/)
 - [🐱 GitHub](https://github.com/J-David-Medina)
 - [💬 WhatsApp](https://api.whatsapp.com/send?phone=573126700622)
