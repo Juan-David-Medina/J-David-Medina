@@ -17,6 +17,19 @@ Soy un **Desarrollador de Software** con más de un año de experiencia en el de
 - Equipos de desarrollo.
 - Iniciativas donde pueda aportar mis conocimientos y adquirir experiencia en tecnologías avanzadas.
 
+## Lenguajes utilizados
+
+- **JavaScript**: 🟨
+- **TypeScript**: 🟦
+- **HTML**: 🟧
+- **CSS**: 🟩
+- **Python**: 🐍
+- **Django**: 🐍
+- **Tailwind CSS**: 🌪️
+- **React**: ⚛️
+
+
+
 ## 📫 Cómo llegar a mí...
 
 - [![gmail](https://img.icons8.com/?size=30&id=qyRpAggnV0zH&format=png&color=000000)](mailto:juandavidmedina398@gmail.com) [![LinkedIn](https://img.icons8.com/?size=30&id=13930&format=png&color=000000)](https://www.linkedin.com/in/juan-david-agudelo-30b24b22b/)  [![GitHub](https://img.icons8.com/?size=30&id=12599&format=png&color=000000)](https://github.com/J-David-Medina) [![WhatsApp](https://img.icons8.com/?size=30&id=16713&format=png&color=000000)](https://api.whatsapp.com/send?phone=573126700622)
