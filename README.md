@@ -1,23 +1,25 @@
 # 👋 Hola, soy Juan David Medina
 
-Soy un **Desarrollador de Software** con más de un año de experiencia en el desarrollo de aplicaciones web. Me apasiona trabajar en equipo, colaborar en proyectos desafiantes, y aprender constantemente nuevas tecnologías para mejorar mis habilidades.
+Soy **Desarrollador de Software** con más de un año de experiencia en el desarrollo de aplicaciones web. Me apasiona trabajar en equipo, colaborar en proyectos desafiantes y aprender constantemente nuevas tecnologías para mejorar mis habilidades.
 
-## 👀 Estoy interesado en...
+## 👀 Mis intereses
 
-- Desarrollar aplicaciones tanto para el frontend como el backend.
-- Colaborar con equipos altamente calificados.
-- Mejorar procesos mediante la automatización y la implementación de buenas prácticas de desarrollo.
-- Aprender de profesionales y expertos en el área.
+- Desarrollo de aplicaciones para frontend y backend.
+- Colaboración con equipos altamente calificados.
+- Mejora de procesos mediante la automatización y la implementación de buenas prácticas de desarrollo.
+- Aprender de profesionales y expertos del área.
 
 ## 🌱 Actualmente estoy aprendiendo...
-- Nuevos lenguajes de progracion
+
+- Nuevos lenguajes de programación.
 
 ## 💞️ Busco colaborar en...
-- Proyectos innovadores que impulsen mi aprendizaje.
-- Equipos de desarrollo.
-- Iniciativas donde pueda aportar mis conocimientos y adquirir experiencia en tecnologías avanzadas.
 
-## Lenguajes utilizados
+- Proyectos innovadores que me permitan continuar aprendiendo.
+- Equipos de desarrollo comprometidos.
+- Iniciativas en las que pueda aportar mis conocimientos y adquirir experiencia en tecnologías avanzadas.
+
+## Lenguajes y tecnologías
 
 - **JavaScript**: 🟨
 - **TypeScript**: 🟦
@@ -28,10 +30,12 @@ Soy un **Desarrollador de Software** con más de un año de experiencia en el de
 - **Tailwind CSS**: 🌪️
 - **React**: ⚛️
 
+## 📫 ¿Cómo contactarme?
 
-
-## 📫 Cómo llegar a mí...
-
-- [![gmail](https://img.icons8.com/?size=30&id=qyRpAggnV0zH&format=png&color=000000)](mailto:juandavidmedina398@gmail.com) [![LinkedIn](https://img.icons8.com/?size=30&id=13930&format=png&color=000000)](https://www.linkedin.com/in/juan-david-agudelo-30b24b22b/)  [![GitHub](https://img.icons8.com/?size=30&id=12599&format=png&color=000000)](https://github.com/J-David-Medina) [![WhatsApp](https://img.icons8.com/?size=30&id=16713&format=png&color=000000)](https://api.whatsapp.com/send?phone=573126700622)
+- [📧 Gmail](mailto:juandavidmedina398@gmail.com)
+- [🔗 LinkedIn](https://www.linkedin.com/in/juan-david-agudelo-30b24b22b/)
+- [🐱 GitHub](https://github.com/J-David-Medina)
+- [💬 WhatsApp](https://api.whatsapp.com/send?phone=573126700622)
 
 ¡Estoy emocionado por colaborar contigo y aprender juntos!
+
