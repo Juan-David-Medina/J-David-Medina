@@ -1,18 +1,22 @@
 # 👨‍💻 Bienvenido a mi perfil de GitHub  
-¡Hola! 👋 Soy un **Desarrollador de Software** apasionado por la tecnología y el aprendizaje continuo. Tengo 21 años, soy de Colombia, y cuento con más de un año de experiencia en el desarrollo de soluciones digitales que combinan funcionalidad y diseño.
 
-Mi mayor motivación es crecer profesionalmente y contribuir con mi trabajo a proyectos que marquen la diferencia. Me gusta enfrentar desafíos, aprender de cada experiencia, y mejorar constantemente mis habilidades técnicas y personales.
+¡Hola! 👋 Soy un **Desarrollador de Software** apasionado por la tecnología y el aprendizaje continuo. Tengo 21 años, soy de Colombia, y cuento con más de un año de experiencia en el desarrollo de soluciones digitales que combinan funcionalidad y diseño.  
+
+Mi mayor motivación es crecer profesionalmente y contribuir con mi trabajo a proyectos que marquen la diferencia. Me gusta enfrentar desafíos, aprender de cada experiencia, y mejorar constantemente mis habilidades técnicas y personales.  
 
 Soy una persona proactiva, comprometida y con muchas ganas de seguir explorando el fascinante mundo de la programación. Si estás buscando a alguien con energía, creatividad y pasión para integrarse a tu equipo, ¡estaré encantado de ser parte de tu próximo proyecto! 😊  
 
+---
+
 ## 🌟 Sobre mí  
 
-- 📍 **Ubicación**: Colombia 
+- 📍 **Ubicación**: Colombia  
 - 🛠️ **Especialidades**: Desarrollo web, diseño responsivo y optimización de interfaces de usuario.  
 - 📅 **Experiencia**: Más de 1 año trabajando con tecnologías web.  
 - 🎯 **Objetivo**: Continuar aprendiendo y creciendo en el mundo del desarrollo, mientras colaboro en proyectos innovadores.  
 
 ---
+
 ## 🚀 Tecnologías que manejo  
 
 ### Lenguajes:  
@@ -29,20 +33,22 @@ Soy una persona proactiva, comprometida y con muchas ganas de seguir explorando 
 ### Otros:  
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) 
 
 ---
+
 ## 🌱 Actualmente estoy aprendiendo...  
 
 - Tecnologías y frameworks de **backend** para el desarrollo web.  
 - Mejores prácticas en arquitectura de software y gestión de APIs.  
 
+---
 
-## 📫 ¿Cómo contactarme?
+## 📫 ¿Cómo contactarme?  
 
-- 📧  [juandavidmedina398@gmail.com](juandavidmedina398@gmail.com)  
-- [🔗 LinkedIn](https://www.linkedin.com/in/juan-david-agudelo-30b24b22b/)
-- [🐱 GitHub](https://github.com/J-David-Medina)
-- [💬 WhatsApp](https://api.whatsapp.com/send?phone=573126700622)
+- 📧 **Correo:** [juandavidmedina398@gmail.com](mailto:juandavidmedina398@gmail.com)  
+- [🔗 **LinkedIn**](https://www.linkedin.com/in/juan-david-agudelo-30b24b22b/)  
+- [🐱 **GitHub**](https://github.com/J-David-Medina)  
+- [💬 **WhatsApp**](https://api.whatsapp.com/send?phone=573126700622)  
 
+---
