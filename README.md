@@ -3,18 +3,18 @@
 Soy un **Desarrollador de Software** con más de un año de experiencia en el desarrollo de aplicaciones web. Me apasiona trabajar en equipo, colaborar en proyectos desafiantes, y aprender constantemente nuevas tecnologías para mejorar mis habilidades.
 
 ## 👀 Estoy interesado en...
-- Desarrollar aplicaciones que resuelvan problemas reales.
-- Colaborar con equipos multidisciplinarios.
+
+- Desarrollar aplicaciones tanto para el frontend como el backend.
+- Colaborar con equipos altamente calificados.
 - Mejorar procesos mediante la automatización y la implementación de buenas prácticas de desarrollo.
+- Aprender de profesionales y expertos en el área.
 
 ## 🌱 Actualmente estoy aprendiendo...
-- **React** y su ecosistema (Hooks, Redux, etc.).
-- Desarrollo backend con **Node.js** y **Django**.
-- Integración de APIs REST y WebSockets.
+- Nuevos lenguajes de progracion
 
 ## 💞️ Busco colaborar en...
 - Proyectos innovadores que impulsen mi aprendizaje.
-- Equipos de desarrollo enfocados en **metodologías ágiles**.
+- Equipos de desarrollo.
 - Iniciativas donde pueda aportar mis conocimientos y adquirir experiencia en tecnologías avanzadas.
 
 [## 📫 Cómo llegar a mí...
