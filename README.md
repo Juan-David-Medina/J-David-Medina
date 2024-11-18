@@ -18,7 +18,7 @@ Soy un **Desarrollador de Software** con más de un año de experiencia en el de
 - Iniciativas donde pueda aportar mis conocimientos y adquirir experiencia en tecnologías avanzadas.
 
 ## 📫 Cómo llegar a mí...
-- **Correo electrónico**: j-david.medina@example.com
+- **Correo electrónico**: juandavidmedina398@gmail.com
 - **LinkedIn**: [linkedin.com/in/j-david-medina](https://www.linkedin.com/in/juan-david-agudelo-30b24b22b/)
 - **GitHub**: [github.com/J-David-Medina](https://github.com/J-David-Medina)
 
