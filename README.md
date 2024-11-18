@@ -22,12 +22,5 @@ Soy un **Desarrollador de Software** con más de un año de experiencia en el de
 - **LinkedIn**: [linkedin.com/in/j-david-medina](https://www.linkedin.com/in/juan-david-agudelo-30b24b22b/)
 - **GitHub**: [github.com/J-David-Medina](https://github.com/J-David-Medina)
 
-## 😄 Pronombres:
-- Él / Him
-
-## ⚡ Dato curioso:
-Siempre estoy buscando maneras de optimizar mi flujo de trabajo y aprender algo nuevo. ¡Ah, y soy amante del café! ☕
-
----
 
 ¡Estoy emocionado por colaborar contigo y aprender juntos!
