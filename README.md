@@ -7,7 +7,7 @@ Soy una persona proactiva, comprometida y con muchas ganas de seguir explorando 
 
 ## 🌟 Sobre mí  
 
-- 📍 **Ubicación**: Colombia 🇨🇴  
+- 📍 **Ubicación**: Colombia 
 - 🛠️ **Especialidades**: Desarrollo web, diseño responsivo y optimización de interfaces de usuario.  
 - 📅 **Experiencia**: Más de 1 año trabajando con tecnologías web.  
 - 🎯 **Objetivo**: Continuar aprendiendo y creciendo en el mundo del desarrollo, mientras colaboro en proyectos innovadores.  
