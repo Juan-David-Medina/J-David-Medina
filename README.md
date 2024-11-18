@@ -1,6 +1,6 @@
-# 👋 Hola, soy @J-David-Medina
+# 👋 Hola, soy Juan David Medina
 
-Soy un **Desarrollador de Software** con más de un año de experiencia en el desarrollo de aplicaciones web y soluciones digitales. Me apasiona trabajar en equipo, colaborar en proyectos desafiantes, y aprender constantemente nuevas tecnologías para mejorar mis habilidades.
+Soy un **Desarrollador de Software** con más de un año de experiencia en el desarrollo de aplicaciones web. Me apasiona trabajar en equipo, colaborar en proyectos desafiantes, y aprender constantemente nuevas tecnologías para mejorar mis habilidades.
 
 ## 👀 Estoy interesado en...
 - Desarrollar aplicaciones que resuelvan problemas reales.
