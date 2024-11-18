@@ -33,34 +33,11 @@ Soy una persona proactiva, comprometida y con muchas ganas de seguir explorando 
 
 
 ---
+## 🌱 Actualmente estoy aprendiendo...  
 
-## 👀 Mis intereses
+- Tecnologías y frameworks de **backend** para el desarrollo web.  
+- Mejores prácticas en arquitectura de software y gestión de APIs.  
 
-- Desarrollo de aplicaciones para frontend y backend.
-- Colaboración con equipos altamente calificados.
-- Mejora de procesos mediante la automatización y la implementación de buenas prácticas de desarrollo.
-- Aprender de profesionales y expertos del área.
-
-## 🌱 Actualmente estoy aprendiendo...
-
-- Nuevos lenguajes de programación.
-
-## 💞️ Busco colaborar en...
-
-- Proyectos innovadores que me permitan continuar aprendiendo.
-- Equipos de desarrollo comprometidos.
-- Iniciativas en las que pueda aportar mis conocimientos y adquirir experiencia en tecnologías avanzadas.
-
-## Lenguajes y tecnologías
-
-- **JavaScript**: 🟨
-- **TypeScript**: 🟦
-- **HTML**: 🟧
-- **CSS**: 🟩
-- **Python**: 🐍
-- **Django**: 🐍
-- **Tailwind CSS**: 🌪️
-- **React**: ⚛️
 
 ## 📫 ¿Cómo contactarme?
 
