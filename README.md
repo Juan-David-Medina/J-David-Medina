@@ -72,6 +72,7 @@ Mi objetivo es seguir creciendo profesionalmente y contribuir en proyectos innov
   </a>
 </p>
 
+
 ---
 
 ### Insignias
