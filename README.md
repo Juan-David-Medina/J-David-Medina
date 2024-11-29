@@ -11,7 +11,7 @@ Mi objetivo es seguir creciendo profesionalmente y contribuir en proyectos innov
 
 - 🌍  Estoy ubicado en Colombia  
 - ✉️  Puedes contactarme en [juandavidmedina398@gmail.com](mailto:juandavidmedina398@gmail.com)  
-- 💼 Portfolio Profesional: j-david-medina.github.io/portafolio
+- 💼 [Portfolio Profesional](https://j-david-medina.github.io/portafolio/#readme)
 - 🤝  Estoy abierto a colaborar en proyectos de desarrollo de software  
 
 ---
