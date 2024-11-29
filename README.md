@@ -11,6 +11,7 @@ Mi objetivo es seguir creciendo profesionalmente y contribuir en proyectos innov
 
 - 🌍  Estoy ubicado en Colombia  
 - ✉️  Puedes contactarme en [juandavidmedina398@gmail.com](mailto:juandavidmedina398@gmail.com)  
+- ✉️  Perfil Profesional (mailto:juandavidmedina398@gmail.com)  
 - 🤝  Estoy abierto a colaborar en proyectos de desarrollo de software  
 
 ---
