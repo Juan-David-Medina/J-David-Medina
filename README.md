@@ -5,6 +5,7 @@ Mi nombre es Juan David Agudelo
 ### Programador - Desarrollador Web  
 
 Soy un desarrollador de software apasionado por la tecnología y el aprendizaje continuo.  
+
 Con más de un año de experiencia en el desarrollo de soluciones digitales, me especializo en crear interfaces web funcionales y bien diseñadas, así como en el desarrollo backend para asegurar el rendimiento y la escalabilidad de las aplicaciones.  
 
 Mi objetivo es seguir creciendo profesionalmente y contribuir en proyectos innovadores que generen impacto. Siempre estoy dispuesto a asumir nuevos desafíos y mejorar mis habilidades técnicas. Soy proactivo, creativo y comprometido con el éxito.  
