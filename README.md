@@ -4,10 +4,11 @@ Mi nombre es Juan David Agudelo
 
 ### Programador - Desarrollador Web  
 
-Soy un desarrollador de software apasionado por la tecnología y el aprendizaje continuo.  
-Con más de un año de experiencia en el desarrollo de soluciones digitales, me especializo en crear interfaces web funcionales y bien diseñadas, así como en el desarrollo backend para asegurar el rendimiento y la escalabilidad de las aplicaciones.  
+Soy un desarrollador de software con más de tres años de experiencia, apasionado por la tecnología y el aprendizaje continuo.
 
-Mi objetivo es seguir creciendo profesionalmente y contribuir en proyectos innovadores que generen impacto. Siempre estoy dispuesto a asumir nuevos desafíos y mejorar mis habilidades técnicas. Soy proactivo, creativo y comprometido con el éxito.  
+A lo largo de mi carrera, he adquirido una amplia experiencia en la creación de soluciones digitales, destacándome en el diseño de interfaces web intuitivas que optimizan la experiencia del usuario. Además, tengo un sólido conocimiento en el desarrollo backend, lo que me permite asegurar que las aplicaciones sean escalables y de alto rendimiento.
+
+Mi objetivo es seguir creciendo profesionalmente y colaborar en proyectos innovadores que generen un impacto real. Me considero una persona proactiva, creativa y siempre dispuesta a asumir nuevos desafíos, con el fin de mejorar mis habilidades técnicas y contribuir al éxito del equipo.
 
 - 🌍  Estoy ubicado en Colombia  
 - ✉️  Puedes contactarme en [juandavidmedina398@gmail.com](mailto:juandavidmedina398@gmail.com)  
